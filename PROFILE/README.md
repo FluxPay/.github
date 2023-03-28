@@ -14,3 +14,5 @@ The benefits source from 4 key areas:
 2. **No more overhead**: you only have to set the amount of funds you want to transfer once, rather than every month. No more monthly admin and payroll transactions from complicated cold wallets. 🤩
 3. **Reduced complexity**: you can stream to as many wallets as you want directly just by NFT collection address. 😁
 4. **Pay in real-time**: contributors get paid in real-time and can use the funds as soon as they receive them using Superfluid 🌊.
+
+Devfolio link - https://devfolio.co/projects/fluxpay-00d5
